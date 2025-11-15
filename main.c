@@ -5,9 +5,9 @@
 int main() {
     int age, hasAnaktID, score, isSpecies;
 
-    printf("***********************\n");
-    printf("Welcome to Alien Stage!\n");
-    printf("***********************\n\n");
+    printf("********************************************************************\n");
+    printf("                 === WELCOME TO ALIEN STAGE ===\n");
+    printf("********************************************************************\n\n");
     printf("Please enter your age: ");
     scanf("%d", &age);
 
