@@ -22,9 +22,9 @@ int main() {
 
 
     if (age > 15 || hasAnaktID == 1) {
-        printf("\nYou are allowed to enter the Alien Stage comptetion.\n");
+        printf("\nYou are allowed to enter the Alien Stage competition.\n");
     } else {
-        printf("\nYou are NOT allowed to enter the Alien Stage comptetion\n");
+        printf("\nYou are NOT allowed to enter the Alien Stage competition\n");
     }
 
 
